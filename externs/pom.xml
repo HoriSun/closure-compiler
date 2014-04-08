@@ -21,7 +21,7 @@
   <packaging>jar</packaging>
 
   <name>Closure Compiler Externs</name>
-  <version>v20140407</version>
+  <version>1.0-SNAPSHOT</version>
 
   <url>http://code.google.com/p/closure-compiler/</url>
   <description>
@@ -42,7 +42,7 @@
   <parent>
     <groupId>com.google.javascript</groupId>
     <artifactId>closure-compiler-parent</artifactId>
-    <version>v20140407</version>
+    <version>1.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
